@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joseoglae/code/Linux/ch08/5-2'
+relocations:     []
+...
